@@ -1,6 +1,5 @@
 ###################################################################################
-# Problem 1: Run this R code that produces Gaussian qqplots for the Gaussian 
-# data sets that you generated on Assignment 1. 
+# Problem 1: Run this R code that produces Gaussian qqplots for the Gaussian . 
 id<-20796234
 set.seed(id)
 for (n in c(50,50,100,100,200,200,300,300)) {
